@@ -9,8 +9,6 @@ const TestPage = () => {
     <div>
       This is just a test for the following test for the using github branches and all:
 
-      <Navbar />
-
       <Header />
 
       <Hero />
